@@ -1,4 +1,4 @@
-# Reconocimiento de Elementos en el Desarrollo de un Programa Informático
+.0-# Reconocimiento de Elementos en el Desarrollo de un Programa Informático
 
 Este repositorio contiene la resolución de la tarea académica orientada a evaluar y comprender los elementos clave, herramientas y paradigmas que intervienen en el ciclo de vida del desarrollo de software.
 
@@ -37,6 +37,6 @@ El resultado de esta investigación y análisis se encuentra consolidado en una 
 ---
 
 ## 👥 Integrantes del Equipo
-* [Tu Nombre Completo]
-* [Nombre de Compañero 1]
-* [Nombre de Compañero 2]
+* [Alvaro Gil Reyes]
+
+Palabra del dia: Compañeros
